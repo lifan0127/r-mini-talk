@@ -1,0 +1,45 @@
+Package: d3vennR
+Type: Package
+Title: htmlwidget for interactive Venn/Euler diagrams in R
+Version: 0.1
+Date: 2015-06-02
+Authors@R: c(
+      person(
+        "Mike", "Bostock"
+        , role = c("aut", "cph")
+        , comment = "d3.js library in htmlwidgets/lib, http://d3js.org"
+      ),
+      person(
+        "Ben", "Frederickson"
+        , role = c("aut", "cph")
+        , comment = "venn.js library in htmlwidgets/lib, https://github.com/benfred/venn.js"
+      ),
+      person(
+        "Ben", "Frederickson"
+        , role = c("aut", "cph")
+        , comment = "mds.js library in htmlwidgets/lib, https://github.com/benfred/mds.js"
+      ),
+      person(
+        "Sébastien", "Loisel"
+        , role = c("aut", "cph")
+        , comment = "numeric.js library in htmlwidgets/lib, https://github.com/sloisel/numeric"
+      ),
+      person(
+        "Kent", "Russell"
+        , role = c("aut", "cre")
+        , comment = "R interface"
+        , email = "kent.russell@timelyportfolio.com"
+      )
+    )
+Maintainer: Kent Russell <kent.russell@timelyportfolio.com>
+Description: Make interactive d3.js Venn/Euler diagrams in R with the convenience and infrastructure
+              of an htmlwidget.
+License: MIT + file LICENSE
+LazyData: TRUE
+Imports:
+  htmlwidgets,
+  htmltools,
+  markdown
+Suggests:
+  knitr
+VignetteBuilder: knitr

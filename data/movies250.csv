@@ -1,0 +1,251 @@
+Rank,Title,Director,Year,Genre,Country,Rating,Votes
+1,The Shawshank Redemption,Frank Darabont,1994,"crime, drama",USA,9.2,1529570
+2,The Godfather,Francis Ford Coppola,1972,"crime, drama",USA,9.2,1048155
+3,The Godfather: Part II,Francis Ford Coppola,1974,"crime, drama",USA,9,708662
+4,The Dark Knight,Christopher Nolan,2008,"action, adventure","UK, USA",8.9,1504948
+5,12 Angry Men,Sidney Lumet,1957,drama,USA,8.9,395001
+6,Schindler's List,Steven Spielberg,1993,"biography, drama, history",USA,8.9,777723
+7,Pulp Fiction,Quentin Tarantino,1994,"crime, drama, thriller",USA,8.9,1191751
+8,"The Good, the Bad and the Ugly",Sergio Leone,1966,western,"West Germany, Spain, Italy",8.9,457064
+9,The Lord of the Rings: The Return of the King,Peter Jackson,2003,"action, adventure, fantasy","New Zealand, USA",8.9,1096516
+10,Fight Club,David Fincher,1999,drama,"Germany, USA",8.8,1204767
+11,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,2001,"action, adventure, fantasy","USA, New Zealand",8.8,1120923
+12,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,1980,"action, adventure, fantasy, sci-fi",USA,8.7,715730
+13,Forrest Gump,Robert Zemeckis,1994,"drama, romance",USA,8.7,1106038
+14,Inception,Christopher Nolan,2010,"action, mystery, sci-fi, thriller","UK, USA",8.7,1303468
+15,One Flew Over the Cuckoo's Nest,Milos Forman,1975,drama,USA,8.7,618250
+16,The Lord of the Rings: The Two Towers,Peter Jackson,2002,"action, adventure, fantasy","New Zealand, USA",8.7,988201
+17,Goodfellas,Martin Scorsese,1990,"biography, crime, drama",USA,8.7,657827
+18,The Matrix,Lana Wachowski & Andy Wachowski,1999,"action, sci-fi","Australia, USA",8.7,1096592
+19,Star Wars: Episode IV - A New Hope,George Lucas,1977,"action, adventure, fantasy, sci-fi",USA,8.7,785561
+20,Seven Samurai,Akira Kurosawa,1954,drama,Japan,8.7,209867
+21,City of God,Fernando Meirelles & KÃ¡tia Lund,2002,"crime, drama","France, Brazil",8.6,485519
+22,Se7en,David Fincher,1995,"drama, mystery, thriller",USA,8.6,916461
+23,The Silence of the Lambs,Jonathan Demme,1991,"crime, drama, thriller",USA,8.6,786259
+24,The Usual Suspects,Bryan Singer,1995,"crime, drama, thriller","Germany, USA",8.6,670569
+25,It's a Wonderful Life,Frank Capra,1946,"drama, family, fantasy",USA,8.6,246889
+26,Life Is Beautiful,Roberto Benigni,1997,"comedy, drama, romance",Italy,8.6,368185
+27,LÃ©on: The Professional,Luc Besson,1994,"crime, drama, thriller",France,8.6,649622
+28,Once Upon a Time in the West,Sergio Leone,1968,western,"Spain, USA, Italy",8.6,196011
+29,Interstellar,Christopher Nolan,2014,"adventure, sci-fi","UK, USA",8.6,732032
+30,Saving Private Ryan,Steven Spielberg,1998,"action, drama, war",USA,8.5,787462
+31,Spirited Away,Hayao Miyazaki & Kirk Wise,2001,"adventure, animation, family, fantasy",Japan,8.5,366518
+32,American History X,Tony Kaye,1998,"crime, drama",USA,8.5,708736
+33,Casablanca,Michael Curtiz,1942,"drama, romance, war",USA,8.5,356593
+34,Raiders of the Lost Ark,Steven Spielberg,1981,"action, adventure",USA,8.5,597216
+35,Psycho,Alfred Hitchcock,1960,"horror, mystery, thriller",USA,8.5,379881
+36,City Lights,Charles Chaplin,1931,"comedy, drama, romance",USA,8.5,94908
+37,Rear Window,Alfred Hitchcock,1954,"mystery, thriller",USA,8.5,286072
+38,The Intouchables,Olivier Nakache & Eric Toledano,2011,"biography, comedy, drama",France,8.5,429793
+39,Modern Times,Charles Chaplin,1936,comedy,USA,8.5,125062
+40,Terminator 2: Judgment Day,James Cameron,1991,"action, sci-fi, thriller","France, USA",8.5,672499
+41,The Green Mile,Frank Darabont,1999,"crime, drama, fantasy, mystery",USA,8.5,690401
+42,Whiplash,Damien Chazelle,2014,"drama, music",USA,8.5,289553
+43,The Pianist,Roman Polanski,2002,"biography, drama, war","UK, Germany, Poland, France",8.5,442483
+44,Memento,Christopher Nolan,2000,"mystery, thriller",USA,8.5,767092
+45,The Departed,Martin Scorsese,2006,"crime, drama, thriller","Hong Kong, USA",8.5,780981
+46,Gladiator,Ridley Scott,2000,"action, drama","UK, USA",8.5,882024
+47,Apocalypse Now,Francis Ford Coppola,1979,"drama, war",USA,8.5,411237
+48,Back to the Future,Robert Zemeckis,1985,"adventure, comedy, sci-fi",USA,8.5,640989
+49,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,1964,"comedy, war","UK, USA",8.5,314206
+50,Sunset Blvd.,Billy Wilder,1950,"drama, film-noir",USA,8.5,126450
+51,The Prestige,Christopher Nolan,2006,"drama, mystery, thriller","UK, USA",8.5,750704
+52,Alien,Ridley Scott,1979,"horror, sci-fi","UK, USA",8.4,507270
+53,The Lion King,Rob Minkoff & Roger Allers,1994,"adventure, animation, drama, family, musical",USA,8.4,564124
+54,The Lives of Others,Florian Henckel von Donnersmarck,2006,"drama, thriller",Germany,8.4,234090
+55,The Great Dictator,Charles Chaplin,1940,"comedy, drama, war",USA,8.4,120654
+56,Cinema Paradiso,Giuseppe Tornatore,1988,drama,"France, Italy",8.4,135190
+57,The Shining,Stanley Kubrick,1980,horror,"USA, UK",8.4,544616
+58,Inside Out,Pete Docter & Ronaldo Del Carmen,2015,"adventure, animation, comedy, drama, family, fantasy",USA,8.4,118608
+59,Django Unchained,Quentin Tarantino,2012,western,USA,8.4,826766
+60,Paths of Glory,Stanley Kubrick,1957,"drama, war",USA,8.4,108293
+61,The Dark Knight Rises,Christopher Nolan,2012,"action, adventure","UK, USA",8.4,1020340
+62,WALLÂ·E,Andrew Stanton,2008,"adventure, animation, romance, sci-fi",USA,8.4,634587
+63,American Beauty,Sam Mendes,1999,drama,USA,8.4,748643
+64,Grave of the Fireflies,Isao Takahata,1988,"animation, drama, war",Japan,8.4,119324
+65,Aliens,James Cameron,1986,"action, adventure, sci-fi, thriller","UK, USA",8.4,444547
+66,Citizen Kane,Orson Welles,1941,"drama, mystery",USA,8.4,273468
+67,North by Northwest,Alfred Hitchcock,1959,"mystery, thriller",USA,8.4,202219
+68,Princess Mononoke,Hayao Miyazaki,1997,"adventure, animation, fantasy",Japan,8.4,196816
+69,Oldboy,Chan-wook Park,2003,"drama, mystery, thriller",South Korea,8.4,318046
+70,Vertigo,Alfred Hitchcock,1958,"mystery, romance, thriller",USA,8.4,223276
+71,Das Boot,Wolfgang Petersen,1981,"adventure, drama, war",West Germany,8.4,153912
+72,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,1983,"action, adventure, fantasy, sci-fi",USA,8.4,569866
+73,M,Fritz Lang,1931,"crime, drama, thriller",Germany,8.4,89963
+74,Once Upon a Time in America,Sergio Leone,1984,"crime, drama","USA, Italy",8.4,198973
+75,AmÃ©lie,Jean-Pierre Jeunet,2001,"comedy, romance","Germany, France",8.4,483451
+76,Witness for the Prosecution,Billy Wilder,1957,"crime, drama, mystery",USA,8.3,54751
+77,Reservoir Dogs,Quentin Tarantino,1992,"crime, drama",USA,8.3,591888
+78,Braveheart,Mel Gibson,1995,"action, biography, drama, history, war",USA,8.3,667140
+79,Toy Story 3,Lee Unkrich,2010,"adventure, animation, comedy, family, fantasy",USA,8.3,482170
+80,A Clockwork Orange,Stanley Kubrick,1971,"crime, drama, sci-fi","USA, UK",8.3,500879
+81,Taxi Driver,Martin Scorsese,1976,"crime, drama",USA,8.3,454282
+82,Requiem for a Dream,Darren Aronofsky,2000,drama,USA,8.3,520989
+83,Double Indemnity,Billy Wilder,1944,"crime, drama, film-noir, thriller",USA,8.3,88424
+84,To Kill a Mockingbird,Robert Mulligan,1962,drama,USA,8.3,192657
+85,Lawrence of Arabia,David Lean,1962,"adventure, biography, drama, history, war",UK,8.3,173873
+86,Eternal Sunshine of the Spotless Mind,Michel Gondry,2004,"drama, romance, sci-fi",USA,8.3,601239
+87,Full Metal Jacket,Stanley Kubrick,1987,"drama, war","USA, UK",8.3,434770
+88,The Sting,George Roy Hill,1973,"comedy, crime, drama",USA,8.3,158787
+89,Amadeus,Milos Forman,1984,"biography, drama, music",USA,8.3,244897
+90,Bicycle Thieves,Vittorio De Sica,1948,drama,Italy,8.3,83909
+91,Singin' in the Rain,Gene Kelly & Stanley Donen,1952,"comedy, musical, romance",USA,8.3,135503
+92,2001: A Space Odyssey,Stanley Kubrick,1968,"mystery, sci-fi","UK, USA",8.3,381623
+93,Monty Python and the Holy Grail,Terry Jones & Terry Gilliam,1975,"adventure, comedy, fantasy",UK,8.3,349347
+94,Snatch.,Guy Ritchie,2000,"comedy, crime","USA, UK",8.3,546457
+95,The Kid,Charles Chaplin,1921,"comedy, drama, family",USA,8.3,57571
+96,L.A. Confidential,Curtis Hanson,1997,"crime, drama, mystery, thriller",USA,8.3,382594
+97,For a Few Dollars More,Sergio Leone,1965,"action, western","West Germany, Spain, Italy",8.3,138812
+98,Toy Story,John Lasseter,1995,"adventure, animation, comedy, family, fantasy",USA,8.3,549397
+99,Rashomon,Akira Kurosawa,1950,"crime, drama, mystery",Japan,8.3,92245
+100,Inglourious Basterds,Eli Roth & Quentin Tarantino,2009,"adventure, drama, war","Germany, USA",8.3,774843
+101,The Apartment,Billy Wilder,1960,"comedy, drama, romance",USA,8.3,98128
+102,All About Eve,Joseph L. Mankiewicz,1950,drama,USA,8.3,75576
+103,The Treasure of the Sierra Madre,John Huston,1948,"action, adventure, drama, western",USA,8.3,72296
+104,A Separation,Asghar Farhadi,2011,drama,Iran,8.3,136779
+105,Indiana Jones and the Last Crusade,Steven Spielberg,1989,"action, adventure",USA,8.3,463533
+106,Yojimbo,Akira Kurosawa,1961,"action, drama",Japan,8.3,66713
+107,Metropolis,Fritz Lang,1927,"drama, sci-fi",Germany,8.3,100757
+108,Scarface,Brian De Palma,1983,"crime, drama",USA,8.3,485705
+109,The Third Man,Carol Reed,1949,"film-noir, mystery, thriller",UK,8.3,103753
+110,Batman Begins,Christopher Nolan,2005,"action, adventure","UK, USA",8.3,870724
+111,Some Like It Hot,Billy Wilder,1959,comedy,USA,8.3,159307
+112,Unforgiven,Clint Eastwood,1992,western,USA,8.3,253110
+113,3 Idiots,Rajkumar Hirani,2009,"comedy, drama",India,8.2,173526
+114,Up,Bob Peterson & Pete Docter,2009,"adventure, animation, drama, family, romance",USA,8.2,582513
+115,Raging Bull,Martin Scorsese,1980,"biography, drama, sport",USA,8.2,214689
+116,Downfall,Oliver Hirschbiegel,2004,"biography, drama, history, war","Italy, Austria, Germany",8.2,227765
+117,The Hunt,Thomas Vinterberg,2012,drama,"Sweden, Denmark",8.2,142136
+118,Chinatown,Roman Polanski,1974,"drama, mystery, thriller",USA,8.2,196726
+119,The Great Escape,John Sturges,1963,"adventure, drama, history, war",USA,8.2,150494
+120,Die Hard,John McTiernan,1988,"action, thriller",USA,8.2,539163
+121,Good Will Hunting,Gus Van Sant,1997,drama,USA,8.2,541012
+122,Heat,Michael Mann,1995,"action, crime, drama, thriller",USA,8.2,395026
+123,On the Waterfront,Elia Kazan,1954,"crime, drama",USA,8.2,91027
+124,Pan's Labyrinth,Guillermo del Toro,2006,"drama, fantasy, war","USA, Mexico, Spain",8.2,424505
+125,Mad Max: Fury Road,George Miller,2015,"action, adventure, sci-fi, thriller","USA, Australia",8.2,334429
+126,Mr. Smith Goes to Washington,Frank Capra,1939,drama,USA,8.2,70753
+127,The Bridge on the River Kwai,David Lean,1957,"adventure, drama, war","USA, UK",8.2,135182
+128,My Neighbor Totoro,Hayao Miyazaki,1988,"animation, family, fantasy",Japan,8.2,147238
+129,Ikiru,Akira Kurosawa,1952,drama,Japan,8.2,37531
+130,Ran,Akira Kurosawa,1985,"action, drama, war","France, Japan",8.2,70543
+131,The Gold Rush,Charles Chaplin,1925,"adventure, comedy",USA,8.2,60047
+132,The Seventh Seal,Ingmar Bergman,1957,"drama, fantasy",Sweden,8.2,100979
+133,Blade Runner,Ridley Scott,1982,"sci-fi, thriller","UK, Hong Kong, USA",8.2,422691
+134,The Secret in Their Eyes,Juan JosÃ© Campanella,2009,"drama, mystery, thriller","Spain, Argentina",8.2,112760
+135,Wild Strawberries,Ingmar Bergman,1957,drama,Sweden,8.2,57027
+136,The General,Buster Keaton & Clyde Bruckman,1926,"action, adventure, comedy, romance, war",USA,8.2,47464
+137,"Lock, Stock and Two Smoking Barrels",Guy Ritchie,1998,"comedy, crime",UK,8.2,380055
+138,The Elephant Man,David Lynch,1980,"biography, drama",USA,8.2,148155
+139,Casino,Martin Scorsese,1995,"biography, crime, drama","France, USA",8.2,300846
+140,Howl's Moving Castle,Hayao Miyazaki,2004,"adventure, animation, family, fantasy",Japan,8.2,187616
+141,The Wolf of Wall Street,Martin Scorsese,2013,"biography, comedy, crime, drama",USA,8.2,649040
+142,Warrior,Gavin O'Connor,2011,"drama, sport",USA,8.2,295934
+143,Gran Torino,Clint Eastwood,2008,drama,"Germany, USA",8.2,512277
+144,V for Vendetta,James McTeigue,2005,"action, drama, sci-fi, thriller","Germany, UK, USA",8.2,715507
+145,The Big Lebowski,Ethan Coen & Joel Coen,1998,"comedy, crime","UK, USA",8.2,483844
+146,Judgment at Nuremberg,Stanley Kramer,1961,"drama, history, war",USA,8.1,38728
+147,Rebecca,Alfred Hitchcock,1940,"mystery, thriller",USA,8.1,79694
+148,A Beautiful Mind,Ron Howard,2001,"biography, drama",USA,8.1,539639
+149,The Deer Hunter,Michael Cimino,1978,"drama, war","USA, UK",8.1,213347
+150,How to Train Your Dragon,Chris Sanders & Dean DeBlois,2010,"adventure, animation, family, fantasy",USA,8.1,427267
+151,Cool Hand Luke,Stuart Rosenberg,1967,"crime, drama",USA,8.1,110108
+152,Fargo,Ethan Coen & Joel Coen,1996,"crime, drama, thriller","UK, USA",8.1,404635
+153,Gone with the Wind,Sam Wood & George Cukor & Victor Fleming,1939,"drama, romance, war",USA,8.1,196269
+154,Trainspotting,Danny Boyle,1996,drama,UK,8.1,427600
+155,It Happened One Night,Frank Capra,1934,"comedy, romance",USA,8.1,58053
+156,Dial M for Murder,Alfred Hitchcock,1954,"crime, thriller",USA,8.1,94505
+157,Into the Wild,Sean Penn,2007,"adventure, biography, drama",USA,8.1,381131
+158,Gone Girl,David Fincher,2014,"drama, mystery, thriller",USA,8.1,468052
+159,The Sixth Sense,M. Night Shyamalan,1999,"drama, mystery, thriller",USA,8.1,643395
+160,Rush,Ron Howard,2013,"action, biography, drama, sport","Germany, UK",8.1,267816
+161,Finding Nemo,Lee Unkrich & Andrew Stanton,2003,"adventure, animation, comedy, family",USA,8.1,607139
+162,The Maltese Falcon,John Huston,1941,"drama, film-noir, mystery",USA,8.1,103443
+163,Mary and Max,Adam Elliot,2009,"animation, comedy, drama",Australia,8.1,105532
+164,No Country for Old Men,Joel Coen & Ethan Coen,2007,"crime, drama, thriller",USA,8.1,551758
+165,The Thing,John Carpenter,1982,"horror, mystery, sci-fi",USA,8.1,232587
+166,Incendies,Denis Villeneuve,2010,"drama, mystery, war","France, Canada",8.1,67489
+167,Kill Bill: Vol. 1,Quentin Tarantino,2003,"action, crime",USA,8.1,661359
+168,Hotel Rwanda,Terry George,2004,"drama, history, war","Canada, South Africa, Italy, USA, UK",8.1,241653
+169,Life of Brian,Terry Jones,1979,comedy,UK,8.1,247537
+170,The Wages of Fear,Henri-Georges Clouzot,1953,"adventure, drama, thriller","Italy, France",8.1,31697
+171,Platoon,Oliver Stone,1986,"drama, war","USA, UK",8.1,267285
+172,Butch Cassidy and the Sundance Kid,George Roy Hill,1969,"biography, crime, western",USA,8.1,137328
+173,There Will Be Blood,Paul Thomas Anderson,2007,drama,USA,8.1,337976
+174,Network,Sidney Lumet,1976,drama,USA,8.1,93494
+175,Touch of Evil,Orson Welles,1958,"crime, film-noir, thriller",USA,8.1,66520
+176,Stand by Me,Rob Reiner,1986,"adventure, drama",USA,8.1,247326
+177,The 400 Blows,FranÃ§ois Truffaut,1959,"crime, drama",France,8.1,63002
+178,12 Years a Slave,Steve McQueen,2013,"biography, drama, history","UK, USA",8.1,372003
+179,The Princess Bride,Rob Reiner,1987,"adventure, comedy, family, fantasy, romance",USA,8.1,269039
+180,Persona,Ingmar Bergman,1966,drama,Sweden,8.1,53932
+181,Annie Hall,Woody Allen,1977,"comedy, drama, romance",USA,8.1,173641
+182,Amores Perros,Alejandro GonzÃ¡lez IÃ±Ã¡rritu,2000,"drama, thriller",Mexico,8.1,158558
+183,The Grand Budapest Hotel,Wes Anderson,2014,comedy,"UK, Germany, USA",8.1,387661
+184,In the Name of the Father,Jim Sheridan,1993,"biography, drama, history","USA, UK, Ireland",8.1,97533
+185,Million Dollar Baby,Clint Eastwood,2004,"drama, sport",USA,8.1,434174
+186,Ben-Hur,William Wyler,1959,"adventure, drama",USA,8.1,144553
+187,The Grapes of Wrath,John Ford,1940,drama,USA,8.1,56956
+188,Hachi: A Dog's Tale,Lasse HallstrÃ¶m,2009,"drama, family","UK, USA",8.1,126851
+189,NausicaÃ¤ of the Valley of the Wind,Hayao Miyazaki,1984,"action, adventure, animation, fantasy, sci-fi",Japan,8.1,84028
+190,Shutter Island,Martin Scorsese,2010,"mystery, thriller",USA,8.1,688704
+191,Diabolique,Henri-Georges Clouzot,1955,"horror, mystery, thriller",France,8.1,37698
+192,Udaan,Vikramaditya Motwane,0,drama,India,8.1,25125
+193,Sin City,Robert Rodriguez & Frank Miller & Quentin Tarantino,2005,"crime, thriller",USA,8.1,607175
+194,The Wizard of Oz,Norman Taurog & Mervyn LeRoy & George Cukor & Victor Fleming & King Vidor,1939,"adventure, family, fantasy, musical",USA,8.1,264652
+195,Stalker,Andrei Tarkovsky,1979,"drama, sci-fi",Soviet Union,8.1,60567
+196,Gandhi,Richard Attenborough,1982,"biography, drama, history","India, UK",8.1,155074
+197,The Best Years of Our Lives,William Wyler,1946,"drama, romance, war",USA,8.1,36693
+198,The Bourne Ultimatum,Paul Greengrass,2007,"action, crime, thriller","Germany, USA",8.1,442228
+199,Donnie Darko,Richard Kelly,2001,"drama, mystery, sci-fi",USA,8,531887
+200,Wild Tales,DamiÃ¡n SzifrÃ³n,2014,"comedy, drama, thriller","Spain, Argentina",8,54944
+201,Jurassic Park,Steven Spielberg,1993,"adventure, sci-fi, thriller",USA,8,535131
+202,8Â½,Federico Fellini,1963,"drama, fantasy","France, Italy",8,71290
+203,Strangers on a Train,Alfred Hitchcock,1951,"crime, film-noir, thriller",USA,8,86826
+204,Before Sunrise,Richard Linklater,1995,"drama, romance","Switzerland, Austria, USA",8,162806
+205,The Avengers,Joss Whedon,2012,"action, adventure, sci-fi",USA,8,883386
+206,Twelve Monkeys,Terry Gilliam,1995,"mystery, sci-fi, thriller",USA,8,423462
+207,Infernal Affairs,Wai-keung Lau & Alan Mak,2002,"crime, mystery, thriller",Hong Kong,8,83929
+208,The Terminator,James Cameron,1984,"action, sci-fi","USA, UK",8,539296
+209,Jaws,Steven Spielberg,1975,"drama, thriller",USA,8,372314
+210,The Battle of Algiers,Gillo Pontecorvo,1966,"crime, drama, history, war","Algeria, Italy",8,33108
+211,Memories of Murder,Joon-ho Bong,2003,"crime, drama, mystery, thriller",South Korea,8,56488
+212,Groundhog Day,Harold Ramis,1993,"comedy, drama, fantasy, romance",USA,8,392338
+213,"Monsters, Inc.",Lee Unkrich & David Silverman & Pete Docter,2001,"adventure, animation, comedy, family, fantasy",USA,8,514919
+214,Guardians of the Galaxy,James Gunn,2014,"action, adventure, sci-fi","UK, USA",8,553543
+215,Harry Potter and the Deathly Hallows: Part 2,David Yates,2011,"adventure, fantasy, mystery","UK, USA",8,478403
+216,Throne of Blood,Akira Kurosawa,1957,"action, drama",Japan,8,26951
+217,Fanny and Alexander,Ingmar Bergman,1982,drama,"West Germany, France, Sweden",8,38793
+218,The Truman Show,Peter Weir,1998,"comedy, drama, sci-fi",USA,8,596558
+219,Rocky,John G. Avildsen,1976,"drama, sport",USA,8,326470
+220,Dog Day Afternoon,Sidney Lumet,1975,"crime, drama",USA,8,167495
+221,Barry Lyndon,Stanley Kubrick,1975,drama,"USA, UK",8,91659
+222,The Imitation Game,Morten Tyldum,2014,"biography, drama, thriller, war","USA, UK",8,349483
+223,High Noon,Fred Zinnemann,1952,"drama, western",USA,8,73365
+224,Ip Man,Wilson Yip,2008,"action, biography, drama, sport","China, Hong Kong",8,142150
+225,The King's Speech,Tom Hooper,2010,"biography, drama, history","Australia, USA, UK",8,446197
+226,La Haine,Mathieu Kassovitz,1995,drama,France,8,92733
+227,A Fistful of Dollars,Sergio Leone,1964,western,"West Germany, Spain, Italy",8,128158
+228,Pirates of the Caribbean: The Curse of the Black Pearl,Gore Verbinski,2003,"action, adventure, fantasy",USA,8,733730
+229,Notorious,Alfred Hitchcock,1946,"drama, film-noir, romance, thriller",USA,8,67955
+230,Castle in the Sky,Hayao Miyazaki,1986,"action, adventure, animation, family, fantasy, romance",Japan,8,86335
+231,Prisoners,Denis Villeneuve,2013,"crime, drama, thriller",USA,8,324624
+232,The Help,Tate Taylor,2011,drama,"United Arab Emirates, India, USA",8,288387
+233,Roman Holiday,William Wyler,1953,"comedy, drama, romance",USA,8,89444
+234,Who's Afraid of Virginia Woolf?,Mike Nichols,1966,drama,USA,8,51197
+235,Gangs of Wasseypur,Anurag Kashyap,2012,"action, crime, drama, thriller",India,8,36745
+236,The Night of the Hunter,Robert Mitchum & Charles Laughton & Terry Sanders,1955,"crime, film-noir, thriller",USA,8,59174
+237,"Spring, Summer, Fall, Winter... and Spring",Ki-duk Kim,2003,drama,"Germany, South Korea",8,56696
+238,Beauty and the Beast,Gary Trousdale & Kirk Wise,1991,"animation, family, fantasy, musical, romance",USA,8,274825
+239,Papillon,Franklin J. Schaffner,1973,"biography, crime, drama","France, USA",8,89869
+240,Anatomy of a Murder,Otto Preminger,1959,"crime, drama, mystery, thriller",USA,8,41879
+241,Before Sunset,Richard Linklater,2004,"drama, romance",USA,8,151034
+242,La Strada,Federico Fellini,1954,drama,Italy,8,43280
+243,The Hustler,Robert Rossen,1961,"drama, sport",USA,8,59017
+244,Le SamouraÃ¯,Jean-Pierre Melville,1967,"crime, drama, mystery, thriller","Italy, France",8,28693
+245,X-Men: Days of Future Past,Bryan Singer,2014,"action, adventure, sci-fi, thriller","UK, USA",8,444161
+246,The Graduate,Mike Nichols,1967,"comedy, drama, romance",USA,8,197815
+247,Elite Squad: The Enemy Within,JosÃ© Padilha,2010,"action, crime, drama, thriller",Brazil,8,61049
+248,Underground,Emir Kusturica,1995,"comedy, drama, war","Serbia, Hungary, Czech Republic, Bulgaria, Germany, France",8,40387
+249,La Dolce Vita,Federico Fellini,1960,"comedy, drama","France, Italy",8,44475
+250,Solaris,Andrei Tarkovsky,1972,"drama, mystery, sci-fi",Soviet Union,8,48137
