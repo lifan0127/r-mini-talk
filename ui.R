@@ -1,15 +1,15 @@
 
 library(shiny)
 
-shinyUI(pageWithSidebar(
+shinyUI(fluidPage(
+  titlePanel("d3vennR demo"),
 
-  headerPanel("d3vennR demo"),
-
-  sidebarPanel(
-    p("This is a demo of the d3vennR pacakge.")
-  ),
-  
-  mainPanel(
-    d3vennROutput("venn")
+  fluidRow(
+    column(width = 6, 
+           d3vennROutput("venn")
+           ),
+    column(width = 6,
+           tableOutput("table")
+           )
   )
 ))
